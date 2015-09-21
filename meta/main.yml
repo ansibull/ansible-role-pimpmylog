@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: ansibull
   description: Pimp my Log installation for Linux
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
@@ -17,7 +17,8 @@ galaxy_info:
   - name: Ubuntu
     versions:
     - all
-  categories:
+  tags:
     - development
     - web
     - server
+    - monitoring
