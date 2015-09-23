@@ -17,7 +17,7 @@ galaxy_info:
   - name: Ubuntu
     versions:
     - all
-  tags:
+  categories:
     - development
     - web
     - server
